@@ -299,7 +299,7 @@ version = "0.1.2"
 
 [[deps.DynLoco_TC]]
 deps = ["Dierckx", "Documenter", "Example", "FFTW", "ForwardDiff", "GR", "IJulia", "Ipopt", "JuMP", "LsqFit", "Parameters", "PlotlyBase", "PlotlyJS", "Plots", "Setfield", "StructArrays", "ToeplitzMatrices"]
-git-tree-sha1 = "bba4ef4f56a26b8956fb556fc6e6704622957822"
+git-tree-sha1 = "eb8e04eb2a4a254fed5df25ab3608cd5e09a3ca7"
 repo-rev = "master"
 repo-url = "https://github.com/taracornwell/DynLoco_TC"
 uuid = "a59e6e67-20e1-413a-a57e-68e4e573fa3e"
